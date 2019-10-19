@@ -17,7 +17,11 @@
 
 ---
 
-## Funcionamento da Aplicação
+## Funcionamento e Exemplo da Aplicação
+![Funcionamento](https://raw.githubusercontent.com/Lucs1590/cafe-phytopathology-detection/master/funcionamento.png "Funcionamento da aplicação")
+
+![Exemplo](https://raw.githubusercontent.com/Lucs1590/cafe-phytopathology-detection/master/exemplo.png "FExemplo da aplicação")
+
 
 ## Repositório do Aplicativo
  - https://github.com/Lucs1590/Coffee_Recognize
