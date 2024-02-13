@@ -1,0 +1,71 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Coffe Recognition
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: ÁLVARO LEANDRO
+    family-names: CAVALCANTE CARNEIRO
+    affiliation: FATEC Pompéia “Shunji Nishimura”
+    orcid: 'https://orcid.org/0000-0002-9485-7229'
+    email: Leandro0807@live.com
+  - given-names: LUCAS
+    name-particle: DE
+    family-names: BRITO SILVA
+    email: lucasbsilva29@gmail.com
+    affiliation: FATEC Pompéia “Shunji Nishimura”
+    orcid: 'https://orcid.org/0000-0001-6748-5100'
+  - given-names: MARISA
+    family-names: SILVEIRA ALMEIDA RENAUD FAULIN
+    email: marisa.faulin@fatec.sp.gov.br
+    affiliation: FATEC Pompéia “Shunji Nishimura”
+  - given-names: JOÃO RICARDO
+    family-names: FAVAN
+    email: joao.favan@fatecpompeia.edu.br
+    affiliation: FATEC Pompéia “Shunji Nishimura”
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2103.11241'
+    description: Arxiv
+  - type: other
+    value: 'https://github.com/Lucs1590/Coffee_Recognize'
+    description: App Repository
+  - type: other
+    value: API Repository
+    description: >-
+      https://github.com/AlvaroCavalcante/Coffee_Recognize_API
+repository-code: >-
+  https://github.com/Lucs1590/coffee-phytopathology-detection
+repository: 'https://github.com/AlvaroCavalcante/Coffee_Recognize_API'
+abstract: >-
+  Pest and disease control play a key role in agriculture,
+  millions of dollars are spent annually due to the damage
+  caused by these agents. However, several advances are
+  being made in the areas of computer vision and deep
+  learning, due to the creation of new algorithms and the
+  increased processing power of modern computers. Based on
+  this assumption, the aim of this research was to I) create
+  an algorithm capable of identifying and locating different
+  phytosanitary problems in coffee leaves (Coffea arabica)
+  and II) quantifying the severity of coffee leaf rust.
+  Different convolutional neural network architectures,
+  Python programming language, OpenCV library and k-means
+  algorithm were used. The results show an average accuracy
+  of 81% in the classification and localization of the
+  leaves phytosanitary, considering 50% of union over
+  intersection threshold. Regarding the quantification of
+  severity, an average level of 38.9% was reached, with a
+  significant low difference with the core systems and
+  software tested compared to Tukey test at 5% probability,
+  considering visual acuity as of a diagrammatic scale.
+keywords:
+  - deep learning
+  - object detection
+  - computer vision
+  - entomology
+  - phytopathology
+license: GPL-3.0+
